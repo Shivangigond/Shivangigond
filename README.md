@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hello! I am Shivangi Gond.
+<h4>I am from Bhopal and I have completed my MCA. I am frequently known by my username shivangi-gond.</h4>
+<p>I love to solve Dsa and aptitude level questions.</p>
+<p>
 <!--
 **Shivangigond/Shivangigond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
