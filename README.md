@@ -1,4 +1,4 @@
-## Hello! I am Shivangi Gond.👏
+## Hello! I am Shivangi Gond.👋
 <h4>I am from Bhopal and I have completed my MCA. I am frequently known by my username shivangi-gond.</h4>
 <p>I love to solve Dsa and aptitude level questions.</p>
 <p>
