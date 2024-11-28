@@ -4,7 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivangigond&label=Profile%20views&color=0e75b6&style=flat" alt="shivangigond" /> </p>
 
 - 🔗 Passionate about Data Structures & Algorithms
--🌟 Building projects to solve real-world problems
+  
+- 🌟 Building projects to solve real-world problems
+  
 - "Turning ideas into code and complexity into simplicity."
 
 - 👨‍💻 All of my projects are available at [https://shivangigond.github.io/Portfolio/](https://shivangigond.github.io/Portfolio/)
